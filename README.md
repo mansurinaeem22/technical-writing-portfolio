@@ -8,11 +8,12 @@ production-ready documentation for enterprise software products.
 
 ### 1. Software User Guide
 A sample user guide explaining how users interact with a software application.
-👉 (Link will be added)
+👉 https://github.com/mansurinaeem22/technical-writing-portfolio/blob/main/software-user-guide.md
+
 
 ### 2. Release Notes
 Sample release notes documenting feature updates, fixes, and improvements.
-👉 (Link will be added)
+👉 https://github.com/mansurinaeem22/technical-writing-portfolio/blob/main/software-user-guide.md
 
 ## 🛠 Skills & Tools
 - Technical Documentation
