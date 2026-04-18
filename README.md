@@ -155,7 +155,7 @@ I am a **Software Technical Writer at Cognizant** with experience in:
 * Managing product documentation workflows
 
 📫 Email: mansurinaeem375@gmail.com
-🔗 LinkedIn:(https://www.linkedin.com/in/naeem-mansuri-01a487203
+🔗 LinkedIn:https://www.linkedin.com/in/naeem-mansuri-01a487203
 
 ---
 
