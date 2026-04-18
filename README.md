@@ -1,8 +1,16 @@
-# Naeem Mansuri – Software Technical Writing Portfolio
+# 🚀 Software User Guide – Technical Writing Portfolio
 
-Hello! 👋  
-I am a Senior Software Technical Writer with 3.6+ years of experience creating
-production-ready documentation for enterprise software products.
+Hi, I'm Naeem Mansuri 👋  
+Software Technical Writer at Cognizant
+
+I specialize in creating clear, structured, and user-friendly documentation that simplifies complex systems.
+
+📌 This portfolio showcases my ability to:
+- Write end-user documentation
+- Structure complex workflows
+- Improve product usability through content
+
+🔗 [View Full Portfolio](your-link)
 
 ## 📄 Writing Samples
 
