@@ -1,7 +1,7 @@
 # Naeem Mansuri – Software Technical Writing Portfolio
 
 Hello! 👋  
-I am a Senior Software Technical Writer with 3+ years of experience creating
+I am a Senior Software Technical Writer with 3.6+ years of experience creating
 production-ready documentation for enterprise software products.
 
 ## 📄 Writing Samples
