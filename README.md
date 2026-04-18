@@ -187,4 +187,15 @@ Actively looking for:
 * Freelance Documentation Projects
 * API Documentation Work
 
+
+## ✨ Documentation Approach
+
+This document follows:
+
+* Task-based writing
+* Minimalist content style
+* Scannable formatting
+* User-first structure
+
+
 👉 Let’s collaborate!
