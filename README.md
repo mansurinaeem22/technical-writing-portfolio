@@ -1,4 +1,4 @@
-# 🚀 Software User Guide – Technical Writing Portfolio
+# Software User Guide – Technical Writing Portfolio
 
 Hi, I'm **Naeem Mansuri** 
 **Software Technical Writer @ Cognizant**
