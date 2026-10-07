@@ -1,27 +1,27 @@
 # 🚀 Software User Guide – Technical Writing Portfolio
 
-Hi, I'm **Naeem Mansuri** 👋
+Hi, I'm **Naeem Mansuri** 
 **Software Technical Writer @ Cognizant**
 
 I create **clear, structured, and user-focused documentation** that simplifies complex systems and improves product usability.
 
 ---
 
-## 🧭 Quick Navigation
+## Quick Navigation
 
-* 📖 Overview
-* 🏗️ Information Architecture
-* ⚙️ Features
-* 🛠️ Installation Guide
-* ▶️ User Workflow
-* 🧯 Troubleshooting
-* 📸 Visual Walkthrough
-* 🧠 Skills Demonstrated
-* 👤 About Me
+* Overview
+* Information Architecture
+* Features
+* Installation Guide
+* User Workflow
+* Troubleshooting
+* Visual Walkthrough
+* Skills Demonstrated
+* About Me
 
 ---
 
-## 📖 Overview
+## Overview
 
 This document is a **sample software user guide** designed to demonstrate:
 
@@ -34,7 +34,7 @@ This document is a **sample software user guide** designed to demonstrate:
 
 ---
 
-## 🏗️ Information Architecture
+## Information Architecture
 
 This guide is structured using a **task-based documentation approach**:
 
@@ -44,11 +44,11 @@ This guide is structured using a **task-based documentation approach**:
 * Usage → Real workflows
 * Troubleshooting → Problem resolution
 
-👉 This ensures **users find answers quickly without confusion**
+This ensures **users find answers quickly without confusion**
 
 ---
 
-## ⚙️ Features
+## Features
 
 | Feature          | Description                  |
 | ---------------- | ---------------------------- |
@@ -58,7 +58,7 @@ This guide is structured using a **task-based documentation approach**:
 
 ---
 
-## 🛠️ Installation Guide
+## Installation Guide
 
 ### Prerequisites
 
@@ -72,11 +72,11 @@ This guide is structured using a **task-based documentation approach**:
 3. Follow on-screen instructions
 4. Launch the application
 
-💡 **Best Practice:** Verify installation path before proceeding
+**Best Practice:** Verify installation path before proceeding
 
 ---
 
-## ▶️ User Workflow
+## User Workflow
 
 ### Login Flow
 
@@ -90,11 +90,11 @@ This guide is structured using a **task-based documentation approach**:
 * Navigate modules
 * Perform operations
 
-👉 Designed for **minimal learning curve**
+ Designed for **minimal learning curve**
 
 ---
 
-## 🧯 Troubleshooting
+## Troubleshooting
 
 | Issue            | Solution          |
 | ---------------- | ----------------- |
@@ -104,7 +104,7 @@ This guide is structured using a **task-based documentation approach**:
 
 ---
 
-## 📸 Visual Walkthrough
+## Visual Walkthrough
 
 * Screenshots here to demonstrate UI clarity*
 
@@ -114,7 +114,7 @@ Example:
 
 ---
 
-## ✨ Documentation Approach
+## Documentation Approach
 
 This document follows:
 
@@ -125,7 +125,7 @@ This document follows:
 
 ---
 
-## 🧠 Skills Demonstrated
+## Skills Demonstrated
 
 * Technical Documentation
 * User Guide Development
@@ -136,7 +136,7 @@ This document follows:
 
 ---
 
-## 📊 Tools & Technologies
+## Tools & Technologies
 
 * DITA
 * Markdown
@@ -159,7 +159,7 @@ I am a **Software Technical Writer at Cognizant** with experience in:
 
 ---
 
-## 🎯 Value Proposition
+## Value Proposition
 
 I help teams:
 
@@ -169,7 +169,7 @@ I help teams:
 
 ---
 
-## ⭐ Why This Portfolio Stands Out
+## Why This Portfolio Stands Out
 
 This project demonstrates my ability to:
 
@@ -179,7 +179,7 @@ This project demonstrates my ability to:
 
 ---
 
-## 🚀 Open to Opportunities
+## Open to Opportunities
 
 Actively looking for:
 
@@ -188,7 +188,7 @@ Actively looking for:
 * API Documentation Work
 
 
-## ✨ Documentation Approach
+## Documentation Approach
 
 This document follows:
 
@@ -198,4 +198,4 @@ This document follows:
 * User-first structure
 
 
-👉 Let’s collaborate!
+Let’s collaborate!
